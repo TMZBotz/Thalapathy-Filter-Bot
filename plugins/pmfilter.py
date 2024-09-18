@@ -1,5 +1,3 @@
-# Thanks To Pk Bro!
-# Thanks To PK Bro! 
 import asyncio
 import re
 import ast
